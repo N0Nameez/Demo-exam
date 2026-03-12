@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NoNam\\source\\repos\\solevault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|c:\\users\\nonam\\source\\repos\\solevault\\solevault\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|solutionrelative:solevault\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|c:\\users\\nonam\\source\\repos\\solevault\\solevault\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|solutionrelative:solevault\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|c:\\users\\nonam\\source\\repos\\solevault\\solevault\\controllers\\lookupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|solutionrelative:solevault\\controllers\\lookupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|c:\\users\\nonam\\source\\repos\\solevault\\solevault\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|solutionrelative:solevault\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|c:\\users\\nonam\\source\\repos\\solevault\\solevault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|solutionrelative:solevault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|c:\\users\\nonam\\source\\repos\\solevault\\solevault\\models\\solevaultcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|solutionrelative:solevault\\models\\solevaultcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|c:\\users\\nonam\\source\\repos\\solevault\\solevault\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|solutionrelative:solevault\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|c:\\users\\nonam\\source\\repos\\solevault\\solevault\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|solutionrelative:solevault\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|c:\\users\\nonam\\source\\repos\\solevault\\solevault\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16940776-B7A8-20A5-91CC-6650EBAB7E86}|solevault\\solevault.csproj|solutionrelative:solevault\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "solevault\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Models\\Product.cs",
+              "RelativeToolTip": "solevault\\Models\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:53:35.747Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\appsettings.json",
+              "RelativeDocumentMoniker": "solevault\\appsettings.json",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\appsettings.json",
+              "RelativeToolTip": "solevault\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-02T10:46:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoleVaultContext.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Models\\SoleVaultContext.cs",
+              "RelativeDocumentMoniker": "solevault\\Models\\SoleVaultContext.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Models\\SoleVaultContext.cs",
+              "RelativeToolTip": "solevault\\Models\\SoleVaultContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:01:29.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LookupsController.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Controllers\\LookupsController.cs",
+              "RelativeDocumentMoniker": "solevault\\Controllers\\LookupsController.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Controllers\\LookupsController.cs",
+              "RelativeToolTip": "solevault\\Controllers\\LookupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:49:03.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "solevault\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "solevault\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:48:16.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "solevault\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "solevault\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAgwNQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:47:35.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Program.cs",
+              "RelativeDocumentMoniker": "solevault\\Program.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Program.cs",
+              "RelativeToolTip": "solevault\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T15:59:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "solevault\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "solevault\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:34:18.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "solevault\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\solevault\\solevault\\Models\\Order.cs",
+              "RelativeToolTip": "solevault\\Models\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:52:34.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
