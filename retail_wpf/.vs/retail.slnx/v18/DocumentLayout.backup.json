@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NoNam\\source\\repos\\retail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\view\\catalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\view\\catalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\view\\ordereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\view\\ordereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\view\\productcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\view\\productcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\converters\\discountgreaterthanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\converters\\discountgreaterthanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\converters\\pricewithdiscountmulticonverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\converters\\pricewithdiscountmulticonverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\converters\\iszeroconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\converters\\iszeroconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\view\\catalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\view\\catalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|c:\\users\\nonam\\source\\repos\\retail\\retail\\view\\ordercard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0CC487B-8683-9FD3-2E82-03AB53B8B1AD}|retail\\retail.csproj|solutionrelative:retail\\view\\ordercard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\OrderEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "retail\\View\\OrderEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\OrderEditWindow.xaml.cs",
+              "RelativeToolTip": "retail\\View\\OrderEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:40:18.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Catalog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\Catalog.xaml.cs",
+              "RelativeDocumentMoniker": "retail\\View\\Catalog.xaml.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\Catalog.xaml.cs",
+              "RelativeToolTip": "retail\\View\\Catalog.xaml.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAAAI8BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:36:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "retail\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "retail\\View\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:33:44.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PriceWithDiscountMultiConverter.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\Converters\\PriceWithDiscountMultiConverter.cs",
+              "RelativeDocumentMoniker": "retail\\Converters\\PriceWithDiscountMultiConverter.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\Converters\\PriceWithDiscountMultiConverter.cs",
+              "RelativeToolTip": "retail\\Converters\\PriceWithDiscountMultiConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:46:38.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IsZeroConverter.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\Converters\\IsZeroConverter.cs",
+              "RelativeDocumentMoniker": "retail\\Converters\\IsZeroConverter.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\Converters\\IsZeroConverter.cs",
+              "RelativeToolTip": "retail\\Converters\\IsZeroConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:46:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountGreaterThanConverter.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\Converters\\DiscountGreaterThanConverter.cs",
+              "RelativeDocumentMoniker": "retail\\Converters\\DiscountGreaterThanConverter.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\Converters\\DiscountGreaterThanConverter.cs",
+              "RelativeToolTip": "retail\\Converters\\DiscountGreaterThanConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:46:30.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCard.xaml",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\ProductCard.xaml",
+              "RelativeDocumentMoniker": "retail\\View\\ProductCard.xaml",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\ProductCard.xaml",
+              "RelativeToolTip": "retail\\View\\ProductCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T01:42:45.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "retail\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\Models\\Product.cs",
+              "RelativeToolTip": "retail\\Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:45:09.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Catalog.xaml",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\Catalog.xaml",
+              "RelativeDocumentMoniker": "retail\\View\\Catalog.xaml",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\Catalog.xaml",
+              "RelativeToolTip": "retail\\View\\Catalog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T01:43:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderCard.xaml",
+              "DocumentMoniker": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\OrderCard.xaml",
+              "RelativeDocumentMoniker": "retail\\View\\OrderCard.xaml",
+              "ToolTip": "C:\\Users\\NoNam\\source\\repos\\retail\\retail\\View\\OrderCard.xaml",
+              "RelativeToolTip": "retail\\View\\OrderCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T04:19:17.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
